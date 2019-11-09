@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'pluto';
+    src: url('fonts/Pluto Bold_0.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pluto';
+    src: url('fonts/Pluto W01 Italic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'pluto';
+    src: url('fonts/Pluto Thin_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "pluto";
+    font-weight: bold;
+    width: 100%;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
