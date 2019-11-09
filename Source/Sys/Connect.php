@@ -48,7 +48,7 @@ class Connect
 
     final private function __clone()
     {
-        
+
     }
 
 }
